@@ -1,0 +1,29 @@
+body
+{background-color: c0fefc;}
+h1
+{margin-left: 590px;
+color: ff75a0;}
+h3
+{margin-left: 730px;
+color: ff75a0;}
+hr
+{border-style: none;
+border-top-style: dotted;
+border-color: 04009a;
+border-width: 5px;
+width: 5%}
+video
+{margin-left: 635px;}
+a
+{margin-left: 750px;}
+
+.one
+{position: absolute;
+margin-right: 150px;
+margin-left: 50px;
+top: 80px;}
+.two
+{position: absolute;
+margin-right: 50px;
+margin-left: 1100px;
+top: 80px;}
